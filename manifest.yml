@@ -1,0 +1,6 @@
+---
+applications:
+- name: spring-music
+  memory: 1G
+  random-route: true
+  path: target/pcf-demo-0.0.1-SNAPSHOT.jar 
