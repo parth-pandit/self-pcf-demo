@@ -19,7 +19,7 @@ public class PcfDemoApplication {
 class PcfDemoController {
 	@RequestMapping("/greetings")
     public String greet() {
- 	    return "Hello, Adwait!!";
+ 	    return "Hello, World!!";
     }
 }
 
